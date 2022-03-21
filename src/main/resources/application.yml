@@ -1,0 +1,6 @@
+
+spring.datasource.ur:= jdbc:h2:mem:testdb
+spring.datasource.username=sa
+spring.datasource.driver-class=org.h2.Driver
+
+spring.jpa.database-platform=org.hibernate
